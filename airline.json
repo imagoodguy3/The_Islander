@@ -504,6 +504,16 @@
         "5061": {
             "name": "Sonex-B kit",
             "liveries": [
+                {
+                    "name": "The Islander"
+                    "texture": [
+                        "https://www.geo-fs.com/backend/aircraft/repository/Sonex-B%20Kit_945960_5061/normals.png",
+                        "https://www.geo-fs.com/backend/aircraft/repository/Sonex-B%20Kit_945960_5061/specular.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/The_Islander/refs/heads/main/map.png",
+                        "https://raw.githubusercontent.com/imagoodguy3/The_Islander/refs/heads/main/prop.png"
+                    ],
+                    "credits": "aWindowsXPMan"
+                }
             ],
             "labels": [
                 "Normal map",
