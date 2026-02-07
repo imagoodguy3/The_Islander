@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "The Islander",
+    "color": "yellow",
+    "bgcolor": "lightblue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
