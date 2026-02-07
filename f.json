@@ -505,7 +505,7 @@
             "name": "Sonex-B kit",
             "liveries": [
                 {
-                    "name": "The Islander"
+                    "name": "The Islander",
                     "texture": [
                         "https://www.geo-fs.com/backend/aircraft/repository/Sonex-B%20Kit_945960_5061/normals.png",
                         "https://www.geo-fs.com/backend/aircraft/repository/Sonex-B%20Kit_945960_5061/specular.png",
